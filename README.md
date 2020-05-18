@@ -1,6 +1,6 @@
 # MIT OCW 6.096 - Introduction to C++
 ## Assignment 2
-Nominally, I would submit this file with the assignment. However, since this is all taken from MIT Open Course Ware, it will just be my version of the solutions posted there (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/assignments/). I've answered the questions asked in the assignment here. I've constructed the solutions to the various parts of the assignment in Assignment2Main.cpp.
+Nominally, I would submit this file with the assignment. However, since this is all taken from MIT Open Course Ware, it will just be my version of the solutions posted there (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/assignments/). I've answered the questions asked in the assignment here. I've constructed the solutions to the various parts of the assignment in `mainA2.cpp`.
 
 The main method tests the functions of interest with a few simple test cases. I've only done the bare minimum of testing and do not account for some of the boundary cases that may or may not be caught by the code.
 ### 2 A Simple Function
